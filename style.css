@@ -22,5 +22,9 @@ h2{
 button{
     width: 150px;
     height: 40px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+button a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
 }
