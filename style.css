@@ -19,3 +19,8 @@ h2{
     color: antiquewhite;
 }
 
+button{
+    width: 150px;
+    height: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
